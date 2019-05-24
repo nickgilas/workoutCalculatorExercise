@@ -1,0 +1,15 @@
+/Users/nicholasgilas/dev/eclipse-workspace/workout-calculator/src/main/java/com/nick/workoutCalculator/dataStore/WorkoutDataStore.java
+/Users/nicholasgilas/dev/eclipse-workspace/workout-calculator/src/main/java/com/nick/workoutCalculator/domain/exercises/ExerciseType.java
+/Users/nicholasgilas/dev/eclipse-workspace/workout-calculator/src/main/java/com/nick/workoutCalculator/queryStrategies/AbbySmithsPersonalRecordBenchPressQuery.java
+/Users/nicholasgilas/dev/eclipse-workspace/workout-calculator/src/main/java/com/nick/workoutCalculator/WorkoutCalculatorCLI.java
+/Users/nicholasgilas/dev/eclipse-workspace/workout-calculator/src/main/java/com/nick/workoutCalculator/domain/workouts/Workout.java
+/Users/nicholasgilas/dev/eclipse-workspace/workout-calculator/src/main/java/com/nick/workoutCalculator/queryStrategies/MonthOf2017BarryMooreBackSquatMostWeightQuery.java
+/Users/nicholasgilas/dev/eclipse-workspace/workout-calculator/src/main/java/com/nick/workoutCalculator/domain/workouts/Set.java
+/Users/nicholasgilas/dev/eclipse-workspace/workout-calculator/src/main/java/com/nick/workoutCalculator/FileLoader.java
+/Users/nicholasgilas/dev/eclipse-workspace/workout-calculator/src/main/java/com/nick/workoutCalculator/domain/users/User.java
+/Users/nicholasgilas/dev/eclipse-workspace/workout-calculator/src/main/java/com/nick/workoutCalculator/dataStore/WorkoutDataStoreJsonFile.java
+/Users/nicholasgilas/dev/eclipse-workspace/workout-calculator/src/main/java/com/nick/workoutCalculator/queryStrategies/Query.java
+/Users/nicholasgilas/dev/eclipse-workspace/workout-calculator/src/main/java/com/nick/workoutCalculator/CustomDateDeserializer.java
+/Users/nicholasgilas/dev/eclipse-workspace/workout-calculator/src/main/java/com/nick/workoutCalculator/queryStrategies/BerryMooreTotalBackSquatPoundsIn2016Query.java
+/Users/nicholasgilas/dev/eclipse-workspace/workout-calculator/src/main/java/com/nick/workoutCalculator/queryStrategies/TotalPoundsBenchPressesQuery.java
+/Users/nicholasgilas/dev/eclipse-workspace/workout-calculator/src/main/java/com/nick/workoutCalculator/domain/workouts/Block.java
